@@ -30,7 +30,7 @@ Large Language Models provide several decoding parameters that influence text ge
 ## Prompt Used
 
 ```
-Write a 300-word story about a robot living in Mumbai.
+Write a three-sentence intro for a novel about an autonomous robot studying ocean ecosystems.
 ```
 
 ---
@@ -41,6 +41,6 @@ Write a 300-word story about a robot living in Mumbai.
 |------|-------------|
 | exp1.py | Python implementation |
 | report.md | Experiment write-up |
-| screenshots | Output screenshots |
+| outputs | Output screenshots |
 
 ---
