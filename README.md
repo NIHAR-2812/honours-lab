@@ -16,6 +16,7 @@ This repository contains all coding experiments, practical implementations, and 
 | Experiment No. | Title | Status |
 |---------------|-------|--------|
 | 01 | Study of LLM Hyperparameters (Temperature & Top-p) | ✅ Completed |
+| 02 | Structured JSON Extraction from Unstructured Engineering Logs using Large Language Models | ✅ Completed |
 
 ---
 
