@@ -13,6 +13,7 @@ ENV/
 
 # Environment Variables
 .env
+chrome_db__store
 
 # =====================================
 # IDE / Editor

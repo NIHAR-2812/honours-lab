@@ -20,6 +20,7 @@ This repository contains all coding experiments, practical implementations, and 
 | 03 | Few-Shot and Chain-of-Thought Prompting for Mathematical Reasoning | ✅ Completed |
 | 04 | ReAct Agent Implementation for Network Diagnostics | ✅ Completed |
 | 05 | Dense Vector Embeddings & Retrieval-Augmented Generation (RAG) | ✅ Completed |
+| 06 | ChromaDB Vector Store Integration for Grounded Question Answering | ✅ Completed |
 
 ---
 
