@@ -17,6 +17,7 @@ This repository contains all coding experiments, practical implementations, and 
 |---------------|-------|--------|
 | 01 | Study of LLM Hyperparameters (Temperature & Top-p) | ✅ Completed |
 | 02 | Structured JSON Extraction from Unstructured Engineering Logs using Large Language Models | ✅ Completed |
+| 03 | Few-Shot and Chain-of-Thought Prompting for Mathematical Reasoning | ✅ Completed |
 
 ---
 
