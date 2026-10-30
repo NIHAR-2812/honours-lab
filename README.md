@@ -19,6 +19,7 @@ This repository contains all coding experiments, practical implementations, and 
 | 02 | Structured JSON Extraction from Unstructured Engineering Logs using Large Language Models | ✅ Completed |
 | 03 | Few-Shot and Chain-of-Thought Prompting for Mathematical Reasoning | ✅ Completed |
 | 04 | ReAct Agent Implementation for Network Diagnostics | ✅ Completed |
+| 05 | Dense Vector Embeddings & Retrieval-Augmented Generation (RAG) | ✅ Completed |
 
 ---
 
